@@ -24,6 +24,7 @@ The class repository for Building A Website, Summer 2018
 --
 
 ### Day 4:
-No readings today.
+#### Required
++ [10 Crucial Elements for Any Website Design](https://mayvendev.com/blog/10-crucial-elements-for-any-website-design): A checklist for designing your first web wireframes
 
 --
