@@ -16,3 +16,14 @@ The class repository for Building A Website, Summer 2018
 + [Code Academy learn HTML](https://www.codecademy.com/courses/learn-html-elements): If you'd like more practice on what we worked on today, do this course.
 
 --
+
+### Day 3:
+##### Optional
++ [Code Academy learn CSS](https://www.codecademy.com/learn/learn-css): If you'd like more practice on what we worked on today, do the first chapter of this course.
+
+--
+
+### Day 4:
+No readings today.
+
+--
